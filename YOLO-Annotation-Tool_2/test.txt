@@ -1,0 +1,14 @@
+/home/nugroho/YOLO-Annotation-Tool_2/Multi-Image-Train/motor-368.jpg
+/home/nugroho/YOLO-Annotation-Tool_2/Multi-Image-Train/motor-321.jpg
+/home/nugroho/YOLO-Annotation-Tool_2/Multi-Image-Train/motor-336.jpg
+/home/nugroho/YOLO-Annotation-Tool_2/Multi-Image-Train/bus-50.jpg
+/home/nugroho/YOLO-Annotation-Tool_2/Multi-Image-Train/motor-476.jpg
+/home/nugroho/YOLO-Annotation-Tool_2/Multi-Image-Train/motor-351.jpg
+/home/nugroho/YOLO-Annotation-Tool_2/Multi-Image-Train/car-276.jpg
+/home/nugroho/YOLO-Annotation-Tool_2/Multi-Image-Train/motor-68.jpg
+/home/nugroho/YOLO-Annotation-Tool_2/Multi-Image-Train/bus-465.jpg
+/home/nugroho/YOLO-Annotation-Tool_2/Multi-Image-Train/car-369.jpg
+/home/nugroho/YOLO-Annotation-Tool_2/Multi-Image-Train/car-99.jpg
+/home/nugroho/YOLO-Annotation-Tool_2/Multi-Image-Train/car-350.jpg
+/home/nugroho/YOLO-Annotation-Tool_2/Multi-Image-Train/car-106.jpg
+/home/nugroho/YOLO-Annotation-Tool_2/Multi-Image-Train/car-231.jpg
